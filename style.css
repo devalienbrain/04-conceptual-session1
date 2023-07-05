@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+
+.navbar-container {
+  background-color: rgb(58, 56, 56);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo-image {
+  width: 100px;
+}
+
+.nav-link-container {
+  display: flex;
+}
+
+.nav-link-item {
+  list-style: none;
+  color: white;
+  margin-right: 20px;
+  font-size: large;
+}
